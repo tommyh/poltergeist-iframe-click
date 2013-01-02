@@ -1,1 +1,1 @@
-rvm use ruby-1.9.2@poltergiest_issues --create
+rvm use 1.9.3-p194@poltergiest_issues --create
