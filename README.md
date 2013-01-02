@@ -14,17 +14,17 @@ brew install phantomjs
 bundle install
 ~~~
 
-
-# Run app for browser
-
-~~~
-bundle exec rackup -p 4567
-# go to http://localhost:4567/a
-~~~
-
-
-# Run rspec tests
+# Run the rspec tests
 
 ~~~
 bundle exec rspec iframe_button_click_spec.rb
 ~~~
+
+# Run the app in a browser
+
+~~~
+bundle exec shotgun
+# go to http://127.0.0.1:9393/a
+~~~
+
+
