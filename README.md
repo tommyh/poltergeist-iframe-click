@@ -1,11 +1,9 @@
 # Description
 
-I am using this app to track down issues with Poltergeist/PhantomJS.
+I am using this app to track down an issue with Poltergeist/PhantomJS.
 
-Issue #1:  Clicking on a button inside of an iframe (where the iframe is not positioned at 0,0) will
+Issue:  Clicking on a button inside of an iframe (where the iframe is not positioned at 0,0) will
 have incorrect click coordinates.  Therefore the button won't be clicked.
-
-
 
 # Installation
 
